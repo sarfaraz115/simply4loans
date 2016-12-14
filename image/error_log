@@ -1,0 +1,2 @@
+[19-Aug-2016 23:22:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/contaosa/public_html/simply4loans.com/image/model49.php(6) : runtime-created function(1) : runtime-created function on line 1
+[19-Aug-2016 23:22:10 UTC] PHP Fatal error:  Function name must be a string in /home/contaosa/public_html/simply4loans.com/image/model49.php(6) : runtime-created function on line 1

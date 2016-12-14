@@ -1,0 +1,2 @@
+Insurance_Product,Name,DOB,Gender,Annual_Income,Email_ID,City,Pin_No,Contact_No,Insurance_Company,Sum_Assured,IP_Address,Campaign_Name,Verification,Application_Date
+"Term Plan,Pension Plan,Child Plan,Tax Saving Plan,Money Back Plan,Guaranteed Return Plan,Health Insurance,Mediclaim Including OPD,Car/Two wheeler Insurance,Loan Insurance, Home Insurance,Life Insurance",John Doe,15-08-1990,Male,"0-3 Lacs, 3-5 Lacs,5-10 Lacs, 10-above",someone@example.com,City,123456,9876543210,ins_comp,100,192.168.1.1,,"GN,OTP,CV",15-08-1990
